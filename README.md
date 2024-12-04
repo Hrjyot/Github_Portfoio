@@ -1,2 +1,2 @@
-# Github_Portfoio
+# Github_Portfolio
 Personal Projects
