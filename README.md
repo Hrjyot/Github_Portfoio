@@ -1,2 +1,1 @@
-# Github_Portfolio
-Personal Projects
+This repository serves as a showcase for my cybersecurity projects, experiments, and learnings. Whether you're a fellow cybersecurity enthusiast, a potential employer, or just curious about digital security, I invite you to explore, learn, and contribute.
